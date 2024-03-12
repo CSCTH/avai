@@ -1,6 +1,6 @@
 # FAQ de [avai]
 
-## ¿Cómo puedo contactar al soporte?
+## ¿Cómo puedo ser un crack?
 Para contactar a nuestro equipo de soporte, puedes enviar un email a [soporte@tuempresa.com](mailto:soporte@tuempresa.com).
 
 ## ¿Cómo puedo cambiar mi contraseña?
